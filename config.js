@@ -41,7 +41,7 @@ module.exports = {
     STICKER_NAME: process.env.STICKER_NAME || "ᴊꜰx ᴍᴅ-xᴠ3",
     CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
     CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "+2348146627582",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "2347046970033",
     OWNER_NAME: process.env.OWNER_NAME || "ᴊᴇᴘʜᴛᴇʀ ᴛᴇᴄʜ",
     DESCRIPTION: process.env.DESCRIPTION || "© ᴊᴇᴘʜᴛᴇʀ ᴛᴇᴄʜ",
     ALIVE_IMG: process.env.ALIVE_IMG || getRandomImage(),
